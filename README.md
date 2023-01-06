@@ -1,3 +1,3 @@
-# OOJDemo3
+# OOPDemo3
 
 School exercise in our first Java programming course.
